@@ -3,10 +3,12 @@
         <title>Tabla en PHP</title>
     </head>
     <body>
-        <table>
-            <tr>
-                <td>14/09/2022</td>
-                <td>11:39</td>
+        <table style="border: 2px solid">
+            <tr style="border: 2px solid">
+                <td style="border: 2px solid">14/09/2022</td>
+            </tr>
+            <tr style="border: 2px solid">
+                <td style="border: 2px solid">11:39</td>
             </tr>
         </table>
     </body>
