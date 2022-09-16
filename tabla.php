@@ -4,7 +4,7 @@
     </head>
     <body>
         <table style="border: 2px solid">
-        <tr style="border: 2px solid">Título editado por Juan Suárez</tr>
+        <tr style="border: 2px solid">Título editado por Nichel Gómez</tr>
             <tr style="border: 2px solid">
                 <td style="border: 2px solid">14/09/2022</td>
             </tr>
